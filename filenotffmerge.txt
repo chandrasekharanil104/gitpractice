@@ -1,0 +1,2 @@
+This is not a simple fast forward merge. This is another type of merge where we have to make a new commit to merge another branch into master branch.
+
