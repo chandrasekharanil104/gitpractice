@@ -1,1 +1,2 @@
+This is nothing but a test!
 This is for testing the merge conflicts that's not it!
