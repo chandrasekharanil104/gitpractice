@@ -1,0 +1,3 @@
+this command restores the changes to the original commit. If we do not stage the files and use this command it restores to the last commit. lets check that
+But it is not used for newly added. It has to be previously commited and changes have to be made for previously commited files and not added those changes.
+
